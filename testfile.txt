@@ -1,2 +1,3 @@
 This is line one, created by user A
-This is line two, created by user A
+This is line two, merged by user B
+
